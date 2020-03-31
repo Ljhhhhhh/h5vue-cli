@@ -1,37 +1,21 @@
-# boone-cli
+# h5vue-cli
 
-🔨 A simple tool for init project
+🔨 A simple tool for init h5vue project
 
 ## Usage
 
 ### Install
 
 ```shell
-npm install boone-cli -g
+npm install h5vue -g
 ```
 
-### List Template
-
+### 模板列表
 ```shell
-boone list
+h5vue list
 ```
 
-![boone-list](https://github.com/MrElvin/boone-cli/blob/master/assets/boone-list.png)
-
-### Init Project
-
+### 初始化项目
 ```shell
-boone init
+h5vue init
 ```
-
-![boone-init](https://github.com/MrElvin/boone-cli/blob/master/assets/boone-init.png)
-
-## Tip
-
-You can get the detail info of the template in the `tpl.json` file.
-
-## LICENSE
-
-[MIT](https://github.com/MrElvin/boone-cli/blob/master/LICENSE)
-
-Copyright (c) 2019 BrezyMelon

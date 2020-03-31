@@ -1,14 +1,14 @@
 {
-  "name": "h5vue-cli",
+  "name": "h5vue",
   "version": "1.0.0",
-  "description": "A simple cli tool for generate template quickly.",
+  "description": "A simple cli tool for generate h5vue project.",
   "main": "./bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrElvin/boone-cli.git"
+    "url": "https://github.com/Ljhhhhhh/h5vue-cli"
   },
   "bin": {
     "h5vue": "./bin/index.js"
@@ -17,9 +17,9 @@
   "author": "ljhhhhhh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MrElvin/boone-cli/issues"
+    "url": "https://github.com/Ljhhhhhh/h5vue-cli/issues"
   },
-  "homepage": "https://github.com/MrElvin/boone-cli#readme",
+  "homepage": "https://github.com/Ljhhhhhh/h5vue-cli/blob/master/README.md",
   "dependencies": {
     "chalk": "^2.4.2",
     "cli-table": "^0.3.1",
