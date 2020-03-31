@@ -2,9 +2,9 @@
 
 🔨 A simple tool for init h5vue project
 
-## Usage
+## 使用
 
-### Install
+### 安装
 
 ```shell
 npm install h5vue -g
