@@ -6,5 +6,9 @@
   "cli4": {
     "downloadUrl": "github:Ljhhhhhh/h5vue#cli4",
     "repoUrl": "git@github.com:Ljhhhhhh/h5vue.git#cli4"
+  },
+  "typescript": {
+    "downloadUrl": "github:Ljhhhhhh/h5vue#typescript",
+    "repoUrl": "git@github.com:Ljhhhhhh/h5vue.git#typescript"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "h5vue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple cli tool for generate h5vue project.",
   "main": "./bin/index.js",
   "scripts": {
